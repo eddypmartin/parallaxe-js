@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+"http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg  width="1200px" height="600px" 
+      viewBox="0 0 500 200"
+      preserveAspectRatio="xMidYMid slice" 
+      xml:lang="fr"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+    <style type="text/css"><![CDATA[
+      .socIcon {
+        fill:red;
+        fill:lime;
+        stroke:purple;
+        stroke-width:5;
+        fill-rule:nonzero;
+      }
+    ]]></style>
+  </defs>
+<polygon class='socIcon' points="100,10 40,198 190,78 10,78 160,198" />
+ <defs>
+      <g id="tete">
+         <circle cx="40" cy="30" r="40" style="stroke:black; stroke-width: 1px;fill: #F4F4F4;" />
+         <rect width="100" height="75" x="-10" y="-20" style="fill:#F4F4F4"/>
+         <circle cx="40" cy="30" r="50" style="stroke:black; stroke-width: 1px;fill: none;" />
+         <circle cx="20" cy="20" r="20" />
+         <circle cx="60" cy="20" r="15" />
+         <circle cx="35" cy="20" r="5" style="fill:white"/>
+         <circle cx="50" cy="20" r="4" style="fill:white" />
+     </g>
+  </defs>
+  <use xlink:href="#tete" x="400" y="10" />
+  <use xlink:href="#tete" x="400" y="160" />
+  <use xlink:href="#tete" x="300" y="80" />
+  <use xlink:href="#tete" x="500" y="80" />
+
+
+
+
+</svg>

@@ -1,0 +1,18 @@
+<svg width="600" height="150" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="602" height="152" id="canvas_background" fill="#7cbaba"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text fill="#768087" stroke-width="0" stroke-opacity="null" x="498.621576" y="412.233578" id="svg_2" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve" stroke="#000" font-weight="bold" font-style="normal">T</text>
+  <text fill="#000000" stroke-width="0" stroke-opacity="null" x="370" y="459" id="svg_3" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve" transform="matrix(3.3231849670410156,0,0,1.8311688899993896,-890.5784372091293,-361.06496062129736) " stroke="#000"/>
+  <text fill="#768087" stroke-width="0" stroke-opacity="null" x="431.276362" y="336.26002" id="svg_4" font-size="24" font-family="Arvo, sans-serif" text-anchor="start" xml:space="preserve" font-weight="bold" stroke="#000">I</text>
+  <text fill="#768087" stroke-width="0" stroke-opacity="null" x="572.867007" y="410.772907" id="svg_6" font-size="24" font-family="Arvo, sans-serif" text-anchor="start" xml:space="preserve" font-weight="bold" stroke="#000">M</text>
+  <text font-weight="bold" stroke="#000" transform="matrix(10.949893043036923,0,0,3.9689164883950565,-1215.522383201371,-192.52067945372247) " xml:space="preserve" text-anchor="start" font-family="Arvo, sans-serif" font-size="24" id="svg_1" y="75.5" x="120.057103" stroke-opacity="null" stroke-width="0" fill="#768087">T</text>
+  <text font-weight="bold" stroke="#000" transform="matrix(10.949893043036923,0,0,3.9689164883950565,-1215.522383201371,-192.52067945372247) " xml:space="preserve" text-anchor="start" font-family="Arvo, sans-serif" font-size="24" id="svg_5" y="74.492168" x="138.504771" stroke-opacity="null" stroke-width="0" fill="#768087">M</text>
+  <text stroke="#000" transform="matrix(10.949893043036923,0,0,3.9689164883950565,-1215.522383201371,-192.52067945372247) " xml:space="preserve" text-anchor="start" font-family="Arvo, sans-serif" font-size="24" id="svg_9" y="74.996084" x="133.847192" stroke-opacity="null" stroke-width="0" fill="#768087">I</text>
+ </g>
+</svg>
